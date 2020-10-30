@@ -1,0 +1,29 @@
+
+{
+  "name": "ast-append",
+  "description": "Zero Depenency  AST Utility to append a property to each node",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "browser": "src/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "author": "SEE CONTRIBUTORS",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sambacha/ast-append"
+  },
+  "bugs": {
+    "url": "https://github.com/sambacha/ast-append/issues"
+  },
+  "homepage": "https://github.com/sambacha/ast-append",
+  "keywords": [
+    "ast",
+    "walk",
+    "parents",
+    "node",
+    "syntax",
+    "parse"
+  ]
+}
